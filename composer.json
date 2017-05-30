@@ -10,12 +10,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Joshbrw\\EntityTransfomers\\": "src/"
+            "Joshbrw\\EntityTransformers\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Joshbrw\\EntityTransfomers\\Tests\\": "tests/"
+            "Joshbrw\\EntityTransformers\\Tests\\": "tests/"
         }
     },
     "license": "MIT",
