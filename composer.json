@@ -1,0 +1,28 @@
+{
+    "name": "joshbrw/entity-transformers",
+    "type": "llibrary",
+    "require": {
+        "illuminate/support": "^5.4",
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Joshbrw\\EntityTransfomers\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Joshbrw\\EntityTransfomers\\Tests\\": "tests/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Brown",
+            "email": "josh@joshbrownn.me"
+        }
+    ]
+}
