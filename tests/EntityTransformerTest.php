@@ -1,8 +1,8 @@
 <?php
 
-namespace Joshbrw\EntityTransfomers\Tests;
+namespace Joshbrw\EntityTransformers\Tests;
 
-use Joshbrw\EntityTransfomers\Tests\Stubs\UserEntityTransformer;
+use Joshbrw\EntityTransformers\Tests\Stubs\UserEntityTransformer;
 use PHPUnit\Framework\TestCase;
 
 class EntityTransformerTest extends TestCase

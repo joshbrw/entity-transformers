@@ -1,6 +1,6 @@
 <?php
 
-namespace Joshbrw\EntityTransfomers;
+namespace Joshbrw\EntityTransformers;
 
 use Illuminate\Support\Collection;
 

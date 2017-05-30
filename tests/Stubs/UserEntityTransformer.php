@@ -1,8 +1,8 @@
 <?php
 
-namespace Joshbrw\EntityTransfomers\Tests\Stubs;
+namespace Joshbrw\EntityTransformers\Tests\Stubs;
 
-use Joshbrw\EntityTransfomers\EntityTransformer;
+use Joshbrw\EntityTransformers\EntityTransformer;
 
 class UserEntityTransformer extends EntityTransformer
 {
